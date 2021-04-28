@@ -16,6 +16,12 @@ You can get the Android app code from https://github.com/Vaibhav2002/NotesX
 - Fully functionable REST API. 
 - Supports all CRUD operations
 
+## Future Plans 
+- Integrate Spring Security for enhanced api security
+- Develop all remaining admin only endpoints
+- Feature to save images in cloud storage
+- Implement OAuth 2.0 
+
 ## Built With 🛠
 - [Spring Boot](https://spring.io/projects/spring-boot) - Spring Boot is the top of the line Java backend framework
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa) - Spring module for data handling
