@@ -1,4 +1,4 @@
-![](media/spring_backend_header.png_)
+![](media/spring_backend_header.png)
 
 # **NotesX Backend** 
 
@@ -15,10 +15,6 @@ You can get the Android app code from https://github.com/Vaibhav2002/NotesX
 
 - Fully functionable REST API. 
 - Supports all CRUD operations
-
-## 📸 Database Schema
-
-[](media/schema.png)
 
 ## Built With 🛠
 - [Spring Boot](https://spring.io/projects/spring-boot) - Spring Boot is the top of the line Java backend framework
